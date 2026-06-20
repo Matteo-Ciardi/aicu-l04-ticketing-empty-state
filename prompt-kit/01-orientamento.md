@@ -1,7 +1,9 @@
 # Orientamento
 
 Task:
-[incolla qui il task]
+Quando l'API restituisce una lista vuota, la pagina deve mostrare un messaggio chiaro e sobrio al posto dello spazio vuoto.
+
+La modifica deve restare piccola e revisionabile.
 
 Non modificare file.
 

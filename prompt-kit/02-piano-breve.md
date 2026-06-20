@@ -1,10 +1,12 @@
 # Piano Breve
 
 Task:
-[incolla qui il task]
+Quando l'API restituisce una lista vuota, la pagina deve mostrare un messaggio chiaro e sobrio al posto dello spazio vuoto.
+
+La modifica deve restare piccola e revisionabile.
 
 Contesto:
-[scrivi 1-2 righe sul progetto o sulla pagina]
+API Express espone ticket aperti fittizi, una UI React mostra la lista. Il task del lab e' aggiungere un empty state semplice quando la lista e' vuota.
 
 Prima di modificare file, restituisci un piano dettagliato in massimo 5 punti operativi.
 

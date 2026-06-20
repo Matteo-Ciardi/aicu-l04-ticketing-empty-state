@@ -2,11 +2,11 @@
 
 ## Contesto Del Progetto
 
-[Descrivi qui la repo target quando copierai questo template.]
+API Express espone ticket aperti fittizi, una UI React mostra la lista. Il task del lab e' aggiungere un empty state semplice quando la lista e' vuota.
 
 ## Obiettivo Corrente
 
-[Scrivi qui il task su cui stai lavorando]
+Aggiungere un empty state semplice alla lista dei ticket aperti.
 
 ## Regole Di Lavoro
 
@@ -32,8 +32,8 @@ Durante il lavoro:
 
 Compila solo se li conosci o se sono nel README della repo target.
 
-- install:
-- dev:
+- install: pnpm install
+- dev: pnpm dev
 - test:
 - lint:
 
